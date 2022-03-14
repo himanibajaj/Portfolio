@@ -1,0 +1,207 @@
+@charset "UTF- 8";
+
+
+
+        .bg-light {
+            background-color: #3F3D56 !important;
+            
+        }
+        .nav-link {
+           color:#fff!important;
+        
+           
+
+        }
+        .nav-link-1{
+padding-left: 100px;
+        }
+        .navbar-brand{
+            color:#ffffff !important;
+            padding-left: 10px;
+        }
+        .c-container {
+        padding-right: 1px;
+        padding-left: 1px;
+        }
+       
+        .text-container {
+        max-width: 1000px;
+        }
+        .front-page-text {
+        padding-top: 30px;
+        }
+        
+        .control-width {
+            max-width: 1200px;
+        }
+        .d-block{
+            max-height: 800px;
+        }
+        .card-img-top{
+            height: 230px;
+        }
+        .card-container {
+            padding-bottom: 60px;
+        }
+        
+         .btn-primary{
+        background-color:#6C63FF;
+        color:white;
+        border: none;
+        }
+        
+        .btn-primary:hover{
+            background-color: white;
+            color:#6C63FF;
+        }
+         .btn-primary:visited{
+        background-color: #6C63FF!important;
+        }
+      
+          .row-1{
+              margin-left: 110px;
+          }
+          .row-2{
+            margin-left: 110px;
+        }
+      
+        .p-4{
+            margin-bottom:20px;
+        }
+         
+    .nav-link {
+        background-color: #3F3D56 !important;
+
+    }
+    .navbar-brand{
+        color:whitesmoke !important;
+    }
+    .c-container {
+    padding-right: 1px;
+    padding-left: 1px;
+    }
+   
+    .text-container {
+    max-width: 600px;
+    }
+    .front-page-text {
+    padding-top: 30px;
+    }
+    
+    .control-width {
+        max-width: 1200px;
+    }
+    .d-block{
+        max-height: 650px ;
+    }
+  
+     .btn btn-primary{
+    background-color:#3F3D56 ;
+    color:white;
+    border: none;
+    }
+    
+    .btn-primary:hover{
+        background-color: white;
+        color:#3F3D56;
+    }
+     .btn-primary:visited{
+    background-image:( #6C63FF,#3F3D56);
+    }
+
+    
+    
+      .row-1{
+          margin-left: 110px;
+      }
+      .row-2{
+        margin-left: 110px;
+    }
+   
+    .p-4{
+        margin-bottom:20px;
+    }
+     
+.nav-link {
+	background-color: #6C63FF;	
+	
+}
+.navbar-brand{
+	color:whitesmoke !important;
+}
+.c-container {
+padding-right: 1px;
+padding-left: 1px;
+}
+.c-carousel-caption {
+	color: #ffffff;
+}
+.text-container {
+max-width: 1000px;
+}
+.front-page-text {
+padding-top: 30px;
+}
+
+.control-width {
+	max-width: 1200px;
+}
+
+.card-img-top{
+	height: 230px;
+}
+.card-container {
+	padding-bottom: 60px;
+}
+
+
+
+.footer{
+	background-color: #3F3D56 ;	
+	height: 60px;
+	color: white;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+}
+
+  .row-1{
+	  margin-left: 110px;
+  }
+  .row-2{
+	margin-left: 110px;
+}
+
+.p-4{
+	margin-bottom:20px;
+}
+
+.btn btn-primary{
+	background-color: #6C63FF;
+    
+}
+.heading{
+  margin-top: 10px;
+ 
+}
+.card-right{
+  
+    width: 350px;
+    height: 350px;
+    margin-left: auto;
+    padding-bottom: 50px;
+}
+.nav-item{
+float:right;
+list-style-type: none;
+padding-right: 10px;
+
+}
+.container{
+    font-family: poppins;
+    color:#3F3D56;
+}
+.about{
+    
+    padding-top:40px;
+}
